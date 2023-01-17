@@ -38,50 +38,51 @@ The technologies I used were:
 I also assisted colleagues in creating the GUI, as well as improving it, and made control of current errors.
 
 ### GUI
+
 <details>
 	<summary>Home screen</summary>
-  ![alt text][index]
+![alt text][index]
 </details>
 
 <details>
-  <summary>Logging</summary>
-  ![alt text][logowanie]
+	<summary>Logging</summary>
+![alt text][logowanie]
 </details>
 
 <details>
-  <summary>Registration</summary>
-  ![alt text][rejestracja]
+	<summary>Registration</summary>
+![alt text][rejestracja]
 </details>
 
 <details>
-  <summary>Password reset</summary>
-  ![alt text][reset]
+	<summary>Password reset</summary>
+![alt text][reset]
 </details>
 
 <details>
-  <summary>Form for adding a recipe</summary>
-  ![alt text][addRecipe]
+	<summary>Form for adding a recipe</summary>
+![alt text][addRecipe]
 </details>
 
 <details>
-  <summary>User recipes</summary>
-  ![alt text][userRecipes]
+	<summary>User recipes</summary>
+![alt text][userRecipes]
 </details>
 
 <details>
-  <summary>Breakfast subpage</summary>
-  ![alt text][breakfast]
+	<summary>Breakfast subpage</summary>
+![alt text][breakfast]
 </details>
 
 <details>
-  <summary>Sample recipe</summary>
-  ![alt text][recipe]
+	<summary>Sample recipe</summary>
+![alt text][recipe]
 </details>
 
 ### Database
 <details>
 	<summary>ERD diagram</summary>
-  ![alt text][ERD]
+![alt text][ERD]
 </details>
 
 [ERD]: https://i.ibb.co/wr5BFdg/schemat.png "Schemat ERD"
